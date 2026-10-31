@@ -1,3 +1,3 @@
-# PrepressTools downloads
+# FlexoPrep downloads
 
-Installers for FlexoSplit and PrepressTools.
+Installers for FlexoSplit and FlexoPrep.
